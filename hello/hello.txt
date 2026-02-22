@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mian m daal doh
+=======
+poiugwewe
+>>>>>>> feature
